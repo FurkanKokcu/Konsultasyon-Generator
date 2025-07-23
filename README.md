@@ -1,6 +1,7 @@
 # Konsültasyon Metni Üretici
 
 Bu uygulama, **Kivy** ile geliştirilmiş basit bir **tıbbi konsültasyon metni üreticisi**dir. Kullanıcıdan alınan bilgiler doğrultusunda otomatik olarak bir konsültasyon metni oluşturur.
+![Uygulama Ekran Görüntüsü](image.png)
 
 ## 🩺 Amaç
 
